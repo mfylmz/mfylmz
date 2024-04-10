@@ -8,8 +8,8 @@ a 21-year-old software enthusiast who's been captivated by the world of computer
 
 * 🌍  I'm based in Toronto/Canada
 * 🖥️  See my portfolio at [See my Portfolio]()
-* 🚀  I'm currently working on [Travel site](https://github.com/mfylmz/band-site)
-* 🧠  I'm learning Html, CSS, Javascript
+* 🚀  I'm currently working on [Band site](https://github.com/mfylmz/band-site)
+* 🧠  I'm learning Javascript.
 * 🤝  I'm open to collaborating on same based projects like the ones I worked before!
 
 ### Skills
